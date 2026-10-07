@@ -1,36 +1,17 @@
-/**************************************************
- * Autism Diagnostic Screening App
- *
- * A starter Android project for screening based on:
- * - CARS
- * - ADOS-2
- * - M-CHAT
- *
- * This app is intended for educational and clinical-support use only,
- * and is not a substitute for a professional assessment.
- **************************************************/
+# Autism Screening Assistant
 
-# Project overview
-This project is a starter Android Studio app for autism screening based on:
+A clinical support screening application built in React, TypeScript, and Tailwind CSS based on established autism assessment frameworks:
 
-- CARS (Childhood Autism Rating Scale)
-- ADOS-2 (Autism Diagnostic Observation Schedule, 2nd Edition) style structured screening
-- M-CHAT (Modified Checklist for Autism in Toddlers) risk categorization
+- **CARS (Childhood Autism Rating Scale)**: 15-item behavioral rating scale for observable autistic traits.
+- **ADOS-2 (Autism Diagnostic Observation Schedule, 2nd Edition)**: Structured clinical observation screening items across social interaction, communication, play, and restricted behaviors.
+- **M-CHAT (Modified Checklist for Autism in Toddlers)**: 16-item screening questionnaire for toddlers (16–30 months) to evaluate early developmental communication risk.
 
 ## Features
-- Tab-based assessment selection
-- CARS scoring
-- ADOS-2-like clinical screening items
-- M-CHAT risk category evaluation
-- Summary card with screening result
+- Interactive tab-based assessment selection
+- Instant score computation and real-time risk/concern categorization
+- Clinical summary interpretations based on validated scoring cutoffs
+- Progress tracking with responsive, accessible Material 3 design
+- Print and export support for clinical documentation
 
-## Open in Android Studio
-1. Open Android Studio
-2. Choose "Open an existing project"
-3. Select this folder
-4. Let Gradle sync complete
-5. Run the app on an emulator or device
-
-## Notes
-This app is a screening tool and not a diagnosis.
-It should only be used by qualified health professionals or under supervision.
+## Important Notice
+This application is designed as an educational and screening support tool. It is **not** a formal diagnostic instrument and does not replace evaluation by a qualified healthcare professional.

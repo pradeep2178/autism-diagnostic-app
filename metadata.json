@@ -1,0 +1,6 @@
+{
+  "name": "Autism Screening Assistant",
+  "description": "Clinical screening assistant supporting CARS, ADOS-2, and M-CHAT assessments with automated scoring and risk categorization.",
+  "permissions": [],
+  "capabilities": []
+}
